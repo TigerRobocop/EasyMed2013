@@ -1,0 +1,40 @@
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\BibliotecaDeClasses\obj\Debug\BibliotecaDeClasses.csprojResolveAssemblyReference.cache

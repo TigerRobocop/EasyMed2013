@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CadastrarReceita">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="r" type="tns:Receita" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Receita">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Numero" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Paciente" type="tns:Paciente" />
+          <s:element minOccurs="0" maxOccurs="1" name="Medico" type="tns:Medico" />
+          <s:element minOccurs="0" maxOccurs="1" name="ListaMedicamentos" type="tns:ArrayOfReceitaMedicamento" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Paciente">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Pessoa">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="NomePai" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NomeMae" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Responsavel" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Raca" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Cpf" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="Pessoa">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nome" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefone" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Rg" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DataNascimento" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Endereco" type="tns:Endereco" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Endereco">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Logradouro" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Numero" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Bairro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cidade" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Uf" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pais" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Complemento" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Medico">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Pessoa">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="Crm" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="Especializacao" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfReceitaMedicamento">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ReceitaMedicamento" nillable="true" type="tns:ReceitaMedicamento" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ReceitaMedicamento">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Medicamento" type="tns:Medicamento" />
+          <s:element minOccurs="0" maxOccurs="1" name="Receita" type="tns:Receita" />
+          <s:element minOccurs="0" maxOccurs="1" name="Instrucoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Quantidade" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dosagem" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TempoTratamento" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Medicamento">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Codigo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NomeGenerico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NomeComercial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Composicao" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ContraIndicacoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dosagem" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Indicacoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Fabricante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tipo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CadastrarReceitaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CadastrarReceitaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarReceita">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="filtro" type="tns:Receita" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarReceitaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarReceitaResult" type="tns:ArrayOfReceita" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfReceita">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Receita" nillable="true" type="tns:Receita" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarMedicamentos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="filtro" type="tns:Medicamento" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarMedicamentosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarMedicamentosResult" type="tns:ArrayOfMedicamento" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMedicamento">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Medicamento" nillable="true" type="tns:Medicamento" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CadastrarReceitaSoapIn">
+    <wsdl:part name="parameters" element="tns:CadastrarReceita" />
+  </wsdl:message>
+  <wsdl:message name="CadastrarReceitaSoapOut">
+    <wsdl:part name="parameters" element="tns:CadastrarReceitaResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarReceitaSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarReceita" />
+  </wsdl:message>
+  <wsdl:message name="BuscarReceitaSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarReceitaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarMedicamentosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarMedicamentos" />
+  </wsdl:message>
+  <wsdl:message name="ListarMedicamentosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarMedicamentosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServicoReceitaSoap">
+    <wsdl:operation name="CadastrarReceita">
+      <wsdl:input message="tns:CadastrarReceitaSoapIn" />
+      <wsdl:output message="tns:CadastrarReceitaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarReceita">
+      <wsdl:input message="tns:BuscarReceitaSoapIn" />
+      <wsdl:output message="tns:BuscarReceitaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarMedicamentos">
+      <wsdl:input message="tns:ListarMedicamentosSoapIn" />
+      <wsdl:output message="tns:ListarMedicamentosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicoReceitaSoap" type="tns:ServicoReceitaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CadastrarReceita">
+      <soap:operation soapAction="http://tempuri.org/CadastrarReceita" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarReceita">
+      <soap:operation soapAction="http://tempuri.org/BuscarReceita" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMedicamentos">
+      <soap:operation soapAction="http://tempuri.org/ListarMedicamentos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServicoReceitaSoap12" type="tns:ServicoReceitaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CadastrarReceita">
+      <soap12:operation soapAction="http://tempuri.org/CadastrarReceita" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarReceita">
+      <soap12:operation soapAction="http://tempuri.org/BuscarReceita" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMedicamentos">
+      <soap12:operation soapAction="http://tempuri.org/ListarMedicamentos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoReceita">
+    <wsdl:port name="ServicoReceitaSoap" binding="tns:ServicoReceitaSoap">
+      <soap:address location="http://localhost:49587/EasyMed.Service/ServicoReceita.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServicoReceitaSoap12" binding="tns:ServicoReceitaSoap12">
+      <soap12:address location="http://localhost:49587/EasyMed.Service/ServicoReceita.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

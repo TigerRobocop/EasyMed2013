@@ -1,0 +1,49 @@
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\ServiceAdmin.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceAdmin\obj\Debug\ServiceAdmin.pdb

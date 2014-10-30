@@ -1,0 +1,13 @@
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormEditarAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormGerenciarAtendentes.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormMain.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormGerenciarMedicos.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources

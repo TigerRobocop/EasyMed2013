@@ -1,0 +1,89 @@
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Desktop\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Desktop\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Bruno Vitor Pires\Documents\BibliotecaDeClassesV7\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.dll
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\ServiceConsulta.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb

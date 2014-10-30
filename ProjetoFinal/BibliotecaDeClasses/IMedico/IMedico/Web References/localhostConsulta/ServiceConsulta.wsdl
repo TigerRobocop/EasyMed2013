@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CadastrarConsulta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Consulta">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="NumeroProntuario" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Paciente" type="tns:Paciente" />
+          <s:element minOccurs="0" maxOccurs="1" name="Medico" type="tns:Medico" />
+          <s:element minOccurs="0" maxOccurs="1" name="Enfermeiro" type="tns:Enfermeiro" />
+          <s:element minOccurs="0" maxOccurs="1" name="DadosVitais" type="tns:DadosVitais" />
+          <s:element minOccurs="0" maxOccurs="1" name="Diagnostico" type="tns:Diagnostico" />
+          <s:element minOccurs="0" maxOccurs="1" name="Receita" type="tns:Receita" />
+          <s:element minOccurs="1" maxOccurs="1" name="DataConsulta" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observacoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Situacao" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Paciente">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Pessoa">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="NomePai" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NomeMae" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Responsavel" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Raca" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Cpf" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="Pessoa">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nome" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefone" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Rg" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DataNascimento" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Endereco" type="tns:Endereco" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Endereco">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Logradouro" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Numero" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Bairro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cidade" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Uf" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pais" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Complemento" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Enfermeiro">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Pessoa">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="Coren" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="Medico">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Pessoa">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Crm" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Especializacao" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Login" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="DadosVitais">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Data" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pressao" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pulso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Temperatura" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Respiracao" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Diagnostico">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Data" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Informacoes" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Receita">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Numero" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Paciente" type="tns:Paciente" />
+          <s:element minOccurs="0" maxOccurs="1" name="Medico" type="tns:Medico" />
+          <s:element minOccurs="0" maxOccurs="1" name="ListaMedicamentos" type="tns:ArrayOfReceitaMedicamento" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfReceitaMedicamento">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ReceitaMedicamento" nillable="true" type="tns:ReceitaMedicamento" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ReceitaMedicamento">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Medicamento" type="tns:Medicamento" />
+          <s:element minOccurs="0" maxOccurs="1" name="Receita" type="tns:Receita" />
+          <s:element minOccurs="0" maxOccurs="1" name="Instrucoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Quantidade" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dosagem" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TempoTratamento" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Medicamento">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Codigo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NomeGenerico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NomeComercial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Composicao" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ContraIndicacoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dosagem" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Indicacoes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Fabricante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tipo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CadastrarConsultaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="pacienteTriagem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="pacienteTriagemResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pacienteTriagemResult" type="tns:ArrayOfConsulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfConsulta">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Consulta" nillable="true" type="tns:Consulta" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="setMedicoConsulta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setMedicoConsultaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="registrarDiagnostico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarDiagnosticoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarDiagnosticoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="finalizarConsulta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="finalizarConsultaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="listarHistoricoConsultas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="c" type="tns:Consulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarHistoricoConsultasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarHistoricoConsultasResult" type="tns:ArrayOfConsulta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarMedicosList">
+        <s:complexType />
+      </s:element>
+      <s:element name="listarMedicosListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarMedicosListResult" type="tns:ArrayOfMedico" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMedico">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Medico" nillable="true" type="tns:Medico" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="loginMedico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="m" type="tns:Medico" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginMedicoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="loginMedicoResult" type="tns:Medico" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CadastrarConsultaSoapIn">
+    <wsdl:part name="parameters" element="tns:CadastrarConsulta" />
+  </wsdl:message>
+  <wsdl:message name="CadastrarConsultaSoapOut">
+    <wsdl:part name="parameters" element="tns:CadastrarConsultaResponse" />
+  </wsdl:message>
+  <wsdl:message name="pacienteTriagemSoapIn">
+    <wsdl:part name="parameters" element="tns:pacienteTriagem" />
+  </wsdl:message>
+  <wsdl:message name="pacienteTriagemSoapOut">
+    <wsdl:part name="parameters" element="tns:pacienteTriagemResponse" />
+  </wsdl:message>
+  <wsdl:message name="setMedicoConsultaSoapIn">
+    <wsdl:part name="parameters" element="tns:setMedicoConsulta" />
+  </wsdl:message>
+  <wsdl:message name="setMedicoConsultaSoapOut">
+    <wsdl:part name="parameters" element="tns:setMedicoConsultaResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarDiagnosticoSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarDiagnostico" />
+  </wsdl:message>
+  <wsdl:message name="registrarDiagnosticoSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarDiagnosticoResponse" />
+  </wsdl:message>
+  <wsdl:message name="finalizarConsultaSoapIn">
+    <wsdl:part name="parameters" element="tns:finalizarConsulta" />
+  </wsdl:message>
+  <wsdl:message name="finalizarConsultaSoapOut">
+    <wsdl:part name="parameters" element="tns:finalizarConsultaResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarHistoricoConsultasSoapIn">
+    <wsdl:part name="parameters" element="tns:listarHistoricoConsultas" />
+  </wsdl:message>
+  <wsdl:message name="listarHistoricoConsultasSoapOut">
+    <wsdl:part name="parameters" element="tns:listarHistoricoConsultasResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarMedicosListSoapIn">
+    <wsdl:part name="parameters" element="tns:listarMedicosList" />
+  </wsdl:message>
+  <wsdl:message name="listarMedicosListSoapOut">
+    <wsdl:part name="parameters" element="tns:listarMedicosListResponse" />
+  </wsdl:message>
+  <wsdl:message name="loginMedicoSoapIn">
+    <wsdl:part name="parameters" element="tns:loginMedico" />
+  </wsdl:message>
+  <wsdl:message name="loginMedicoSoapOut">
+    <wsdl:part name="parameters" element="tns:loginMedicoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceConsultaSoap">
+    <wsdl:operation name="CadastrarConsulta">
+      <wsdl:input message="tns:CadastrarConsultaSoapIn" />
+      <wsdl:output message="tns:CadastrarConsultaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="pacienteTriagem">
+      <wsdl:input message="tns:pacienteTriagemSoapIn" />
+      <wsdl:output message="tns:pacienteTriagemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setMedicoConsulta">
+      <wsdl:input message="tns:setMedicoConsultaSoapIn" />
+      <wsdl:output message="tns:setMedicoConsultaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarDiagnostico">
+      <wsdl:input message="tns:registrarDiagnosticoSoapIn" />
+      <wsdl:output message="tns:registrarDiagnosticoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="finalizarConsulta">
+      <wsdl:input message="tns:finalizarConsultaSoapIn" />
+      <wsdl:output message="tns:finalizarConsultaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarHistoricoConsultas">
+      <wsdl:input message="tns:listarHistoricoConsultasSoapIn" />
+      <wsdl:output message="tns:listarHistoricoConsultasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarMedicosList">
+      <wsdl:input message="tns:listarMedicosListSoapIn" />
+      <wsdl:output message="tns:listarMedicosListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="loginMedico">
+      <wsdl:input message="tns:loginMedicoSoapIn" />
+      <wsdl:output message="tns:loginMedicoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceConsultaSoap" type="tns:ServiceConsultaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CadastrarConsulta">
+      <soap:operation soapAction="http://tempuri.org/CadastrarConsulta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="pacienteTriagem">
+      <soap:operation soapAction="http://tempuri.org/pacienteTriagem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setMedicoConsulta">
+      <soap:operation soapAction="http://tempuri.org/setMedicoConsulta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarDiagnostico">
+      <soap:operation soapAction="http://tempuri.org/registrarDiagnostico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="finalizarConsulta">
+      <soap:operation soapAction="http://tempuri.org/finalizarConsulta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarHistoricoConsultas">
+      <soap:operation soapAction="http://tempuri.org/listarHistoricoConsultas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarMedicosList">
+      <soap:operation soapAction="http://tempuri.org/listarMedicosList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginMedico">
+      <soap:operation soapAction="http://tempuri.org/loginMedico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceConsultaSoap12" type="tns:ServiceConsultaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CadastrarConsulta">
+      <soap12:operation soapAction="http://tempuri.org/CadastrarConsulta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="pacienteTriagem">
+      <soap12:operation soapAction="http://tempuri.org/pacienteTriagem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setMedicoConsulta">
+      <soap12:operation soapAction="http://tempuri.org/setMedicoConsulta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarDiagnostico">
+      <soap12:operation soapAction="http://tempuri.org/registrarDiagnostico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="finalizarConsulta">
+      <soap12:operation soapAction="http://tempuri.org/finalizarConsulta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarHistoricoConsultas">
+      <soap12:operation soapAction="http://tempuri.org/listarHistoricoConsultas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarMedicosList">
+      <soap12:operation soapAction="http://tempuri.org/listarMedicosList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginMedico">
+      <soap12:operation soapAction="http://tempuri.org/loginMedico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceConsulta">
+    <wsdl:port name="ServiceConsultaSoap" binding="tns:ServiceConsultaSoap">
+      <soap:address location="http://localhost:12330/EasyMed.Service/ServiceConsulta.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceConsultaSoap12" binding="tns:ServiceConsultaSoap12">
+      <soap12:address location="http://localhost:12330/EasyMed.Service/ServiceConsulta.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,26 @@
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.FormValidaReceita.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.Properties.Resources.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.csproj.GenerateResource.Cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\ServiceReceita.dll
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\ServiceReceita.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.exe.config
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.exe.config
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\SocketEasyMedReceita.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\bin\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.FormValidaReceita.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.Properties.Resources.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\SocketEasyMedReceita\obj\x86\Debug\SocketEasyMedReceita.pdb

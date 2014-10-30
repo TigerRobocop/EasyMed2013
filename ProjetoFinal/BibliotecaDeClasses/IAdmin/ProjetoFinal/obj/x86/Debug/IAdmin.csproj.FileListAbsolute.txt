@@ -1,0 +1,139 @@
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormGerenciarAtendentes.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormGerenciarMedicos.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\aluno\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+C:\Users\aluno.EXPERT\Desktop\Vs.04 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.05 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.GUI.FormEditarMedico.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.GUI.FormEditarMedico.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Gisomar\Desktop\Vs.05_-_WebService_Pessoa_Gisomar-2014-05-17\Vs.05 - WebService Pessoa Gisomar\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.GUI.FormEditarMedico.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+E:\Vs.08 - WebService Pessoa Gisomar\BibliotecaDeClassesV3\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.GUI.FormEditarMedico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\BibliotecaDeClasses.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ServiceAdmin.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.GUI.FormEditarMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.FormNovoMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb

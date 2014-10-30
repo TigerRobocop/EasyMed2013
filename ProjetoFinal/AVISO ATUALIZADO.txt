@@ -1,0 +1,29 @@
+V8
+
+*consertei as referencias externas do projeto
+*adicionei classe diagnostico (id, data, observacoes - não coloquei nome pq ainda não entendi o pq)
+*caso de uso buscar paciente da triagem praticamente pronto
+*tela main do médico bem encaminhada
+*gerar parecer e finalizar consulta encaminhadas. vou trabalhar nisso ahora
+*tecnicamente o gerar receita já está conectada na consulta, só precisa fazer o fluxo da janela. mas quando clica ele já dá um numero à receita e a atribui à consulta
+*melo disse que a manipulação da receita que ele pediu, deverá ser feita no [pesquisar historico], ou seja, MAIS TRABALHO
+mas creio que isso não seja tão complicado.
+
+
+-------------------------------
+
+
+V10
+
+*todas as labels funcionando devidamente
+*fluxo da consulta completo, faltam pequenos detalhes que verificarei depois que implementar o caso de uso da receita
+
+*ainda por fazer
+-algum tipo de login pro médico, e algum método pra pegar as informações dele
+-pegar a receita corretamente
+-socket da farmacia MELDELS
+-pesquisar histórico, que vou começar ahora
+
+bjinhos e por favor leiam e me respondam.
+
+

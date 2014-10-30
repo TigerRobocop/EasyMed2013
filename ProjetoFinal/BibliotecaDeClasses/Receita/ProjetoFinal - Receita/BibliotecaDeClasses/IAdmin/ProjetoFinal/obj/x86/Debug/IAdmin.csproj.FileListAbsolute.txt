@@ -1,0 +1,48 @@
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoAtendente.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\ProjetoFinal-Admin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoAtendente.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoMedico.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoAtendente.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoMedico.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Bruno Vitor Pires\Desktop\ProjetoFinal\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormEditarAtendente.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarAtendentes.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormGerenciarMedicos.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormMain.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoAtendente.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.GUI.FormNovoMedico.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\IAdmin.csproj.GenerateResource.Cache
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.exe
+C:\Users\Gisomar\Desktop\Receita-2014-05-20\Receita\ProjetoFinal - Receita\BibliotecaDeClasses\IAdmin\ProjetoFinal\obj\x86\Debug\ProjetoFinal.pdb

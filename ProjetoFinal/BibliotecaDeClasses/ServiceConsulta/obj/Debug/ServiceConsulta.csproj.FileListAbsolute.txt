@@ -1,0 +1,56 @@
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\ServiceConsulta.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceConsulta\obj\Debug\ServiceConsulta.pdb

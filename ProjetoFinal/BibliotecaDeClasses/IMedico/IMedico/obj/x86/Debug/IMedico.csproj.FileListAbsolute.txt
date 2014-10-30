@@ -1,0 +1,54 @@
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Documents\ADS\ADS03\PCS\ProjFinal\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormHistorico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormConsultarPacienteMedico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarParecer.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormGerarReceita.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormHistorico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.FormMainMedico.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.Properties.Resources.resources
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.csproj.GenerateResource.Cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.GUI.FormLogin.resources
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\bin\Debug\IMedico.exe.config
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.exe
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\IMedico\IMedico\obj\x86\Debug\IMedico.pdb

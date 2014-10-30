@@ -1,0 +1,10 @@
+versão mais atualizada do projeto final
+
+*consertei as referencias externas do projeto
+*adicionei classe diagnostico (id, data, observacoes - não coloquei nome pq ainda não entendi o pq)
+*caso de uso buscar paciente da triagem praticamente pronto
+*tela main do médico bem encaminhada
+*gerar parecer e finalizar consulta encaminhadas. vou trabalhar nisso ahora
+*tecnicamente o gerar receita já está conectada na consulta, só precisa fazer o fluxo da janela. mas quando clica ele já dá um numero à receita e a atribui à consulta
+*melo disse que a manipulação da receita que ele pediu, deverá ser feita no [pesquisar historico], ou seja, MAIS TRABALHO
+mas creio que isso não seja tão complicado.

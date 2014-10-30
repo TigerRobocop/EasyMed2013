@@ -1,0 +1,61 @@
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\Dev-Lívia\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\aluno.EXPERT\Desktop\BibliotecaDeClassesV1\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClassesV3\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\BibliotecaDeClasses1 - Copy\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Desktop\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\ServiceReceita.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\bin\BibliotecaDeClasses.pdb
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.dll
+C:\Users\Livia\Documents\ADS\ADS03\FINALFINAL - Livia\ProjetoFinal\BibliotecaDeClasses\ServiceReceita\obj\Debug\ServiceReceita.pdb
